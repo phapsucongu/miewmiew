@@ -1,0 +1,2389 @@
+Apple	Quả táo
+Banana	Quả chuối
+Car	Xe hơi
+Book	Sách
+Computer	Máy tính
+Sun	Mặt trời
+Moon	Mặt trăng
+Water	Nước
+Fire	Lửa
+Tree	Cây
+Flower	Hoa
+House	Nhà
+Table	Bàn
+Chair	Ghế
+Dog	Con chó
+Cat	Con mèo
+Fish	Cá
+Bird	Con chim
+Friend	Bạn bè
+Family	Gia đình
+Love	Tình yêu
+Egg	Quả trứng
+Window	Cửa sổ
+Phone	Điện thoại
+Hat	Mũ
+Shirt	Áo sơ mi
+Shoes	Giày
+Bag	Túi
+Watch	Đồng hồ
+Music	Âm nhạc
+Movie	Phim
+Rain	Mưa
+Sunset	Hoàng hôn
+Ocean	Đại dương
+Mountain	Núi
+Dance	Nhảy múa
+Cook	Nấu ăn
+Travel	Du lịch
+Read	Đọc sách
+Write	Viết
+Game	Trò chơi
+Swim	Bơi
+Run	Chạy
+Bike	Đạp xe
+Train	Tàu hoả
+Airplane	Máy bay
+Ship	Tàu thủy
+Map	Bản đồ
+Money	Tiền
+Time	Thời gian
+Language	Ngôn ngữ
+Food	Thực phẩm
+Drink	Đồ uống
+Fruit	Trái cây
+Vegetable	Rau củ
+Animal	Động vật
+Insect	Côn trùng
+Color	Màu sắc
+Number	Số
+Letter	Chữ cái
+Star	Ngôi sao
+Sky	Bầu trời
+Earth	Trái đất
+Guitar	Đàn guitar
+Airport	Sân bay
+Chocolate	Sô cô la
+Coffee	Cà phê
+Dolphin	Cá heo
+Elephant	Voi
+Giraffe	Hươu cao cổ
+Ice cream	Kem
+Jacket	Áo khoác
+Kangaroo	Kangaroo
+Lion	Sư tử
+Monkey	Khỉ
+Nest	Tổ
+Orange	Cam
+Penguin	Chim cánh cụt
+Queen	Nữ hoàng
+Rabbit	Con thỏ
+Strawberry	Dâu tây
+Tiger	Hổ
+Umbrella	Ô
+Violin	Đàn viôlông
+Watermelon	Dưa hấu
+Xylophone	Xylophone
+Yak	Yak
+Zebra	Ngựa vằn
+Koala	Gấu túi Úc
+Octopus	Bạch tuộc
+Panda	Gấu trúc
+Peacock	Công
+Polar bear	Gấu Bắc Cực
+Raccoon	Gấu Mỹ
+Seahorse	Ngựa biển
+Squirrel	Sóc
+Turtle	Rùa
+Vulture	Kền kền
+Walrus	Hải cẩu ngà
+X-ray fish	Cá tia X
+Cactus	Cây xương rồng
+Dandelion	Cỏ bồ công anh
+Eucalyptus	Cây bạch dương
+Fern	Rau dại
+Geranium	Cây hoa phượng
+Hibiscus	Hoa dâm bụt
+Iris	Cẩm tú cầu
+Jasmine	Cây nhài
+Kale	Cải bắp
+Lavender	Cây oải hương
+Accomplish	Hoàn thành
+Benevolent	Nhân từ
+Cacophony	Tiếng ồn ào
+Diligent	Chăm chỉ
+Ephemeral	Ngắn ngủi
+Furtive	Rón rén
+Gregarious	Đồng loạt
+Hedonist	Người theo đuổi niềm vui
+Ineffable	Không thể diễn đạt bằng lời
+Jubilant	Hân hoan
+Kaleidoscope	Kính vạn hoa
+Lethargic	Mệt mỏi, uể oải
+Mellifluous	Âm thanh ngọt ngào
+Nefarious	Ác độc
+Obtuse	Cùn, đần độn
+Pernicious	Độc hại, gây hại
+Quixotic	Hão huyền
+Rambunctious	Hỗn loạn, náo nhiệt
+Sycophant	Người nịnh hót
+Trepidation	Sự run sợ
+Ubiquitous	Mọi nơi
+Vacillate	Lưỡng lự
+Whimsical	Kỳ quái
+Xenophobia	Sự ghét người nước ngoài
+Yielding	Nhượng bộ
+Zephyr	Gió nhẹ
+Acrimonious	Chua cay
+Bumptious	Tự phụ, kiêu căng
+Cacophonous	Tiếng ồn ào
+Dilapidated	Xập xệ
+Egregious	Nghiêm trọng
+Facetious	Tinh nghịch, hài hước
+Garrulous	Nói nhiều
+Hapless	Khốn khổ
+Inane	Vô nghĩa
+Juxtapose	Đặt cạnh nhau
+Kowtow	Cúi đầu, quỳ gối
+Lament	Than khóc
+Meticulous	Cẩn thận
+Nebulous	Mơ hồ, không rõ ràng
+Obfuscate	Làm mờ đi
+Ravenous	Tham lam
+Voracious	Tham lam
+Yawn	Ngáp
+Zest	Hương vị, sự hứng thú
+Abandon	Từ bỏ
+Abate	Giảm bớt
+Aberration	Sự lệch hướng
+Abhor	Ghét cay ghét đắng
+Abject	Thảm hại
+Abolish	Bãi bỏ
+Abound	Phong phú
+Abrasive	Chà xát
+Absolve	Tỏ ra vô tội
+Abstain	Từ chối
+Accolade	Khen ngợi
+Accost	Chào hỏi
+Accrue	Tích luỹ
+Adamant	Kiên định
+Adept	Thạo
+Admonish	Mắng mỏ
+Adorn	Trang hoàng
+Adulation	Sự tán tỉnh
+Aesthetic	Mỹ thuật
+Affable	Dễ gần gũi
+Affliction	Sự đau khổ
+Agile	Nhanh nhẹn
+Alacrity	Sự nhanh nhẹn
+Alleviate	Làm dịu bớt
+Allure	Quyến rũ
+Altruistic	Hướng ngoại
+Amass	Tích luỹ
+Ambiguous	Mơ hồ
+Ambivalence	Mâu thuẫn tâm lý
+Ameliorate	Cải thiện
+Amiable	Đáng yêu
+Amicable	Hòa thuận
+Ample	Rộng rãi
+Analogous	Tương tự
+Anarchy	Hỗn loạn
+Anecdote	Chuyện kể
+Animosity	Thù địch
+Annihilate	Tiêu diệt
+Anomaly	Không bình thường
+Antipathy	Ghét
+Apathy	Lãnh đạm
+Aplomb	Sự tự tin
+Apprehensive	Lo sợ
+Arbitrary	Tùy ý
+Arcane	Bí ẩn
+Archetype	Nguyên mẫu
+Articulate	Linh hoạt trong việc diễn đạt
+Asinine	Ngớ ngẩn
+Assuage	Dịu đi
+Austere	Khắc nghiệt
+Avarice	Tham lam
+Aversion	Sự ghét
+Baleful	Báo điềm xấu
+Banish	Đuổi đi
+Bereft	Mất mát
+Blatant	Rõ ràng
+Bolster	Hỗ trợ
+Brevity	Sự ngắn gọn
+Bucolic	Nông thôn
+Cajole	Ngọt ngào lừa
+Candor	Thành thực
+Capricious	Thất thường
+Carping	Hay phê phán
+Catalyst	Chất xúc tác
+Caustic	Cay nghiệt
+Censure	Lên án
+Chagrin	Thất vọng
+Charlatan	Người lừa đảo
+Chide	Mắng mỏ
+Choleric	Dễ cáu giận
+Churlish	Thô lỗ
+Circumspect	Thận trọng
+Clandestine	Bí mật
+Clairvoyant	Thấy trước
+Clemency	Lòng nhân từ
+Coalesce	Hợp nhất
+Cognizant	Nhận thức được
+Collusion	Âm mưu
+Complacent	Tự mãn
+Concede	Công nhận
+Conciliatory	Hòa giải
+Condescending	Coi thường
+Condone	Bỏ qua
+Confidant	Người tâm tình
+Confluence	Sự hợp nhất
+Conjecture	Sự phỏng đoán
+Conspicuous	Nổi bật
+Consummate	Hoàn hảo
+Contentious	Hay cãi vã
+Contrite	Ân hận
+Conundrum	Vấn đề khó giải
+Copious	Dồi dào
+Corpulent	Mập mạp
+Covet	Có tham vọng
+Cower	Co rúm lại
+Credence	Sự tin tưởng
+Credulous	Dễ tin
+Curtail	Cắt giảm
+Cynical	Chua chát
+Dearth	Sự thiếu hụt
+Debilitate	Làm yếu đi
+Debunk	Bác bỏ
+Decipher	Giải mã
+Decorum	Phép lịch sự
+Deference	Sự kính trọng
+Delineate	Mô tả
+Demure	Nhút nhát
+Denounce	Lên án
+Deride	Chế nhạo
+Derogatory	Mỉa mai
+Despondent	Buồn rầu
+Detrimental	Gây hại
+Deviate	Lạc hướng
+Dexterous	Khéo léo
+Diatribe	Chửi rủa
+Didactic	Mang tính giáo dục
+Diffident	Thụ động
+Dilettante	Một người am hiểu nông cạn
+Disparate	Khác biệt
+Dispel	Xua tan
+Disrepute	Sự tiêu tan danh tiếng
+Dissipate	Tiêu tan
+Divulge	Tiết lộ
+Docile	Ngoan ngoãn
+Dogmatic	Độc đoán
+Dubious	Nghi ngờ
+Duplicity	Sự lừa dối
+Ebullient	Hớn hở
+Eclectic	Sự hòa hợp
+Edify	Giáo dục
+Efficacious	Hiệu quả
+Eloquent	Hùng biện
+Elusive	Khó nắm bắt
+Emaciated	Suy nhược
+Eminent	Xuất sắc
+Empathy	Sự đồng cảm
+Enervate	Làm yếu đi
+Engender	Gây ra
+Enhance	Nâng cao
+Enigma	Bí ẩn
+Enrapture	Làm mê mẩn
+Enthrall	Mê hoặc
+Epiphany	Sự hiểu rõ bất ngờ
+Equanimity	Sự điềm tĩnh
+Erratic	Không ổn định
+Ethereal	Tinh khiết
+Euphoric	Hạnh phúc
+Evanescent	Sự tiêu tan
+Exacerbate	Làm trầm trọng thêm
+Exculpate	Tha thứ
+Exemplary	Gương mẫu
+Exonerate	Xóa tội
+Exorbitant	Cắt cổ
+Expedient	Thích hợp
+Exquisite	Tuyệt vời
+Extol	Khen ngợi
+Exuberant	Hừng hực
+Facilitate	Làm cho dễ dàng
+Fathom	Hiểu rõ
+Feasible	Khả thi
+Fervent	Nồng nhiệt
+Fiasco	Thất bại
+Flabbergasted	Ngạc nhiên đến mức không biết nói gì
+Flagrant	Thái quá
+Flippant	Nói bất kính
+Genial	Nhã nhặn
+Gesticulate	Gắt tay
+Glib	Nhanh nhẹn
+Grotesque	Quái dị
+Guile	Sự gian trá
+Harangue	Diễn thuyết kháng chiến
+Haughty	Ngạo mạn
+Heedless	Không để ý
+Heinous	Tàn ác
+Heretic	Người dị đoan
+Histrionic	Dở hơi
+Idyllic	Lý tưởng
+Imminent	Sắp xảy ra
+Immutable	Bất biến
+Impartial	Công bằng
+Implacable	Không thể làm lành
+Implicit	Ngụ ý
+Implore	Cầu xin
+Incisive	Sắc bén
+Inclement	Thời tiết khắc nghiệt
+Inexorable	Không thể ngăn cản
+Infamous	Tai tiếng
+Innocuous	Vô hại
+Insidious	Lén lút
+Insipid	Nhạt nhẽo
+Insolent	Hỗn xược
+Insurgent	Nổi loạn
+Intrepid	Dũng cảm
+Inundate	Tràn ngập
+Inure	Làm quen với
+Irreverent	Không tôn trọng
+Jocular	Hài hước
+Laconic	Ngắn gọn
+Languid	Mệt mỏi
+Loquacious	Nói nhiều
+Lucid	Rõ ràng
+Machiavellian	Kế sách
+Magnanimous	Nhân hậu
+Malevolent	Xấu xa
+Malleable	Dễ uốn nắn
+Maudlin	Rưng rưng
+Misanthrope	Người ghét loài người
+Mollify	Làm dịu đi
+Monotonous	Nhàm chán
+Mundane	Hằn ngày
+Nemesis	Kẻ trả thù
+Nonchalant	Hờ hững
+Nostalgia	Hoài niệm
+Notorious	Nổi tiếng
+Novice	Người mới
+Nuance	Sắc thái
+Obdurate	Cứng đầu
+Obliterate	Tiêu diệt
+Oblivious	Lãng quên
+Ominous	Có điềm báo xấu
+Onerous	Nặng nề
+Ostentatious	Phô trương
+Pacify	Làm yên lòng
+Palliate	Làm nhẹ bớt
+Pariah	Người bị tẩy chay
+Peculiar	Kỳ lạ
+Pedantic	Kiểu học đòi
+Penchant	Sở thích
+Pertinent	Liên quan
+Pervasive	Lan tràn
+Petulant	Nóng nảy
+Placate	Làm yên lòng
+Plethora	Nhiều
+Plummet	Rơi thảm
+Ponder	Ngẫm nghĩ
+Ponderous	Nặng nề
+Pretentious	Phô trương
+Prudent	Thận trọng
+Pugnacious	Đáng gặp mặt
+Pulchritudinous	Xinh đẹp
+Quell	Dẹp tan
+Rancor	Thù hằn
+Rebuke	Mắng mỏ
+Recluse	Người sống cô lập
+Relegate	Đuổi ra khỏi
+Reproach	Chỉ trích
+Resilient	Bền bỉ
+Resplendent	Rực rỡ
+Reticent	Tự kiềm chế
+Revere	Tôn kính
+Rogue	Kẻ gian
+Sage	Nhà thông thái
+Salient	Nổi bật
+Sanguine	Lạc quan
+Sardonic	Cay độc
+Savvy	Thạo việc
+Scrupulous	Cẩn thận
+Scurrilous	Lời lẽ bậy bạ
+Serendipity	Tình cờ tốt lành
+Serene	Bình yên
+Serpentine	Uốn lưỡi
+Tactile	Thích tiếp xúc
+Tantamount	Tương đương
+Tawdry	Rẻ rách
+Tenuous	Mong manh
+Unctuous	Dưới một cách giả dối
+Vacuous	Trống rỗng
+Vehement	Mạnh mẽ
+Venerate	Tôn trọng
+Verbose	Nói nhiều
+Vex	Làm phật ý
+Vicarious	Thuộc về người khác
+Wary	Cảnh giác
+Wistful	Tiếc nuối
+Yield	Nhượng bộ
+Zany	Kỳ cục
+Zealot	Người nhiệt tình
+Zenith	Đỉnh điểm
+Enthralling	Cuốn hút, mê hoặc
+Acrimony	Sự căm ghét, ác ý
+Surreptitious	Lén lút, tiềm ẩn
+Beautiful	Đẹp
+Fast	Nhanh
+Slow	Chậm
+Happy	Hạnh phúc
+Sad	Buồn
+Angry	Tức giận
+Eat	Ăn
+Sleep	Ngủ
+Wake up	Thức dậy
+Dream	Mơ
+Listen	Nghe
+Speak	Nói
+See	Nhìn thấy
+Touch	Chạm
+Feel	Cảm nhận
+Think	Nghĩ
+Learn	Học
+Teach	Dạy
+Play	Chơi
+Work	Làm việc
+Rest	Nghỉ ngơi
+Clean	Dọn dẹp
+Open	Mở
+Close	Đóng
+Break	Gãy
+Fix	Sửa chữa
+Build	Xây dựng
+Destroy	Phá hủy
+Paint	Sơn
+Sing	Hát
+Fly	Bay
+Drive	Lái xe
+Ride	Cưỡi
+Jump	Nhảy
+Climb	Leo
+Fall	Rơi
+Stand	Đứng
+Sit	Ngồi
+Lie down	Nằm xuống
+Behind	Đằng sau
+Under	Dưới
+Above	Phía trên
+Between	Giữa
+Inside	Bên trong
+Outside	Bên ngoài
+Next to	Bên cạnh
+Life	Cuộc sống
+School	Trường học
+City	Thành phố
+Country	Quốc gia
+World	Thế giới
+Air	Không khí
+Nature	Tự nhiên
+Plant	Thực vật
+Art	Nghệ thuật
+Science	Khoa học
+Sport	Thể thao
+Health	Sức khỏe
+Heart	Trái tim
+Mind	Tâm hồn
+Goal	Mục tiêu
+Problem	Vấn đề
+Solution	Giải pháp
+Question	Câu hỏi
+Answer	Câu trả lời
+Happiness	Hạnh phúc
+Sadness	Buồn bã
+Anger	Tức giận
+Fear	Sợ hãi
+Joy	Niềm vui
+Peace	Hòa bình
+Freedom	Tự do
+Hope	Hi vọng
+Success	Thành công
+Failure	Thất bại
+Hate	Ghét
+Smile	Nụ cười
+Tear	Nước mắt
+Laughter	Tiếng cười
+Memory	Ký ức
+Future	Tương lai
+Past	Quá khứ
+Present	Hiện tại
+War	Chiến tranh
+Justice	Công lý
+Technology	Công nghệ
+Space	Không gian
+Culture	Văn hóa
+Education	Giáo dục
+Beauty	Vẻ đẹp
+Strength	Sức mạnh
+Weakness	Sự yếu đuối
+Courage	Can đảm
+Reality	Thực tế
+Friendship	Tình bạn
+Team	Đội nhóm
+Teamwork	Làm việc nhóm
+Challenge	Thách thức
+Opportunity	Cơ hội
+Change	Thay đổi
+Growth	Sự phát triển
+Innovation	Sáng tạo
+Environment	Môi trường
+Climate	Khí hậu
+Weather	Thời tiết
+Sunshine	Ánh nắng mặt trời
+Wind	Gió
+Storm	Bão
+Snow	Tuyết
+River	Sông
+Forest	Rừng
+Desert	Sa mạc
+Beach	Bãi biển
+Planet	Hành tinh
+Galaxy	Ngân hà
+Universe	Vũ trụ
+Cloud	Đám mây
+Rainbow	Cầu vồng
+Thunder	Sấm sét
+Lightning	Tia chớp
+Earthquake	Động đất
+Volcano	Núi lửa
+Achieve	Đạt được
+Adapt	Thích nghi
+Explore	Khám phá
+Discover	Khám phá
+Create	Tạo ra
+Invent	Phát minh
+Improve	Cải thiện
+Develop	Phát triển
+Succeed	Thành công
+Fail	Thất bại
+Overcome	Vượt qua
+Inspire	Truyền cảm hứng
+Motivate	Thúc đẩy
+Encourage	Khích lệ
+Support	Hỗ trợ
+Help	Giúp đỡ
+Guide	Hướng dẫn
+Lead	Dẫn dắt
+Follow	Theo đuổi
+Understand	Hiểu
+Communicate	Giao tiếp
+Collaborate	Hợp tác
+Cooperate	Cộng tác
+Negotiate	Đàm phán
+Resolve	Giải quyết
+Decide	Quyết định
+Plan	Lập kế hoạch
+Organize	Tổ chức
+Manage	Quản lý
+Control	Kiểm soát
+Delegate	Ủy quyền
+Evaluate	Đánh giá
+Assess	Đánh giá
+Measure	Đo lường
+Monitor	Theo dõi
+Review	Xem xét
+Reflect	Phản chiếu
+Adjust	Điều chỉnh
+Modify	Thay đổi
+Transform	Biến đổi
+Evolve	Tiến hóa
+Innovate	Cách tân
+Experiment	Thử nghiệm
+Test	Kiểm tra
+Verify	Xác nhận
+Validate	Xác nhận
+Have fun	Vui chơi
+Enjoy	Thưởng thức
+Relax	Thư giãn
+Concentrate	Tập trung
+Focus	Tập trung
+Meditate	Thiền định
+Breathe	Thở
+Move	Di chuyển
+Walk	Đi bộ
+Adventure	Phiêu lưu
+Ugly	Xấu xí
+Pretty	Xinh đẹp
+Handsome	Đẹp trai
+Attractive	Hấp dẫn
+Cute	Dễ thương
+Funny	Vui nhộn
+Serious	Nghiêm túc
+Excited	Hào hứng
+Nervous	Lo lắng
+Relaxed	Thư giãn
+Stressed	 căng thẳng
+Tired	Mệt mỏi
+Energetic	Tràn đầy năng lượng
+Lazy	Lười biếng
+Ambitious	Có tham vọng
+Confident	Tin tưởng
+Insecure	Thiếu tự tin
+Smart	Thông minh
+Dumb	Ngốc nghếch
+Wise	Khôn ngoan
+Foolish	Ngu ngốc
+Clever	Tài tình
+Clumsy	Vụng về
+Gentle	Nhẹ nhàng
+Rough	Thô ráp
+Kind	Tốt bụng
+Mean	Xấu tính
+Generous	Hào phóng
+Greedy	Tham lam
+Honest	Trung thực
+Dishonest	Bất trung thực
+Polite	Lịch sự
+Rude	Thô lỗ
+Shy	Rụt rè
+Outgoing	Hướng ngoại
+Introverted	Hướng nội
+Sociable	Hòa đồng
+Antisocial	Khép kín
+Adventurous	Thích phiêu lưu
+Cautious	Cẩn thận
+Reckless	Liều lĩnh
+Stingy	Keo kiệt
+Tolerant	Khoan dung
+Intolerant	Thiên vị
+Adore	Yêu thương
+Desire	Khao khát
+Synchronize	Đồng bộ
+Conquer	Chinh phục
+Cherish	Trân trọng
+Celebrate	Tổ chức kỷ niệm
+Emerge	Nổi lên
+Navigate	Điều hướng
+Respect	Tôn trọng
+Influence	Tác động
+Revive	Hồi sinh
+Dedicate	Tận tụy
+Endure	Chịu đựng
+Empower	Mạnh mẽ
+Enrich	Làm giàu
+Heal	Chữa lành
+Pioneer	Tiên phong
+Nurture	Nuôi dưỡng
+Prosper	Thịnh vượng
+Befriend	Kết bạn
+Champion	Đấu tranh cho
+Stimulate	Kích thích
+Dominate	Thống trị
+Inquire	Hỏi
+Thrive	Phát triển mạnh mẽ
+Excel	Xuất sắc
+Prevail	Thắng lợi
+Amplify	Tăng cường
+Revitalize	Tái sinh
+Appreciate	Trân trọng
+Foster	Nuôi dưỡng
+Spark	Kích hoạt
+Convey	Truyền đạt
+Illuminate	Chiếu sáng
+Pursue	Theo đuổi
+Resonate	Tạo cảm giác đồng điệu
+Ingest	Tiêu hóa
+Consume	Tiêu thụ
+Unite	Đoàn kết
+Collide	Va chạm
+Sculpt	Tạo hình
+Compose	Sáng tác
+Rejoice	Vui mừng
+Aspire	Khao khát
+Ignite	Thắp sáng
+Elevate	Nâng cao
+Envision	Tưởng tượng
+Venture	Mạo hiểm
+Rejuvenate	Hồi sinh
+Fascinate	Quyến rũ
+Galvanize	Kích thích
+Vitalize	Tái tạo
+Strengthen	Củng cố
+Fortify	Tăng cường
+Cultivate	Trồng trọt
+Sow	Gieo hạt
+Reap	Gặt hái
+Harvest	Thu hoạch
+Blossom	Nở hoa
+Bloom	Nở hoa
+Flourish	Phát triển mạnh mẽ
+Grow	Phát triển
+Fulfill	Thực hiện
+Realize	Nhận ra
+Attain	Đạt được
+Obtain	Đạt được
+Acquire	Thu thập
+Gain	Kiếm được
+Earn	Kiếm tiền
+Receive	Nhận được
+Collect	Thu thập
+Gather	Tập hợp
+Hoard	Tích trữ
+Save	Tiết kiệm
+Preserve	Bảo tồn
+Protect	Bảo vệ
+Guard	Bảo vệ
+Defend	Bảo vệ
+Secure	Bảo vệ
+Shelter	Che chở
+Sanctuary	Nơi trú ẩn
+Refuge	Nơi ẩn náu
+Harbor	Nơi neo đậu
+Shield	Lá chắn
+Cover	Phủ lấp
+Conceal	Che đậy
+Camouflage	Ngụy trang
+Veil	Màn che
+Mask	Mặt nạ
+Hide	Ẩn nấp
+Disappear	Biến mất
+Vanish	Biến mất
+Evaporate	Bốc hơi
+Erode	Xói mòn
+Deteriorate	Suy tàn
+Decay	Mục nát
+Collapse	Sụp đổ
+Crumble	Sụp đổ
+Ruin	Hủy hoại
+Wreck	Phá huỷ
+Devastate	Tàn phá
+Desolate	Hoang vắng
+Astronomy	Thiên văn học
+Economics	Kinh tế học
+Society	Xã hội
+Psychology	Tâm lý học
+Philosophy	Triết học
+Democracy	Dân chủ
+Government	Chính phủ
+Economy	Nền kinh tế
+Architecture	Kiến trúc
+History	Lịch sử
+Literature	Văn học
+Mathematics	Toán học
+Physics	Vật lý học
+Chemistry	Hóa học
+Biology	Sinh học
+Geography	Địa lý học
+Medicine	Y học
+Philanthropy	Từ thiện
+Volunteer	Tình nguyện viên
+Conflict	Xung đột
+Wildlife	Động vật hoang dã
+Moonlight	Ánh trăng
+Diamond	Kim cương
+Island	Hòn đảo
+Fireworks	Pháo hoa
+Journey	Hành trình
+Whisper	Tiếng thì thầm
+Echo	Tiếng vang
+Serenade	Bài hát tặng tình yêu
+Tornado	Cơn lốc xoáy
+Miracle	Kỳ diệu
+Whirlwind	Cuồng nhiệt
+Butterfly	Con bướm
+Dragon	Con rồng
+Phoenix	Chim phượng hoàng
+Rainforest	Rừng mưa nhiệt đới
+Waterfall	Thác nước
+Silhouette	Bóng đen
+Sunrise	Bình minh
+Autumn	Mùa thu
+Innocence	Tình trong sáng
+Grace	Duyên dáng
+Whimsy	Lúc đùa giỡn
+Enchantment	Sự mê hoặc
+Charm	Phép thuật
+Vibrant	Sống động
+Majestic	Tráng lệ
+Luminescent	Tỏa sáng
+Halcyon	Yên bình
+Melancholy	Nỗi buồn
+Petrify	Làm sợ hãi
+Surreal	Bất thực
+Gossamer	Mỏng manh
+Opaque	Mờ mịt
+Opulent	Phong cách
+Day	Ngày
+Night	Đêm
+Man	Người đàn ông
+Woman	Người phụ nữ
+Boy	Cậu bé
+Girl	Cô gái
+Death	Cái chết
+Town	Thị trấn
+Village	Làng
+Building	Công trình xây dựng
+Hospital	Bệnh viện
+Bank	Ngân hàng
+Store	Cửa hàng
+Restaurant	Nhà hàng
+Movie theater	Rạp chiếu phim
+Museum	Bảo tàng
+Park	Công viên
+Clothes	Quần áo
+Bus	Xe buýt
+Newspaper	Tờ báo
+Magazine	Tạp chí
+Cooking	Nấu ăn
+Friends	Bạn bè
+big	to
+small	nhỏ
+tall	cao
+short	thấp
+long	dài
+heavy	nặng
+light	nhẹ
+fast	nhanh
+slow	chậm
+hot	nóng
+cold	lạnh
+beautiful	đẹp
+ugly	xấu
+happy	vui vẻ
+sad	buồn
+angry	giận dữ
+afraid	sợ hãi
+hopeful	hy vọng
+dreamy	mơ mộng
+real	thực tế
+imaginary	mơ tưởng
+good	tốt
+bad	xấu
+new	mới
+old	cũ
+here	ở đây
+there	ở đó
+now	bây giờ
+then	lúc đó
+this	cái này
+that	cái kia
+he	anh ấy
+she	cô ấy
+it	nó
+they	họ
+I	tôi
+you	bạn
+we	chúng ta
+is	là
+are	là
+was	là
+were	là
+have	có
+has	có
+had	có
+do	làm
+does	làm
+did	làm
+can	có thể
+could	có thể
+will	sẽ
+would	sẽ
+to	để
+from	từ
+in	trong
+on	trên
+at	ở
+of	của
+with	với
+by	bởi
+for	cho
+about	về
+as	như
+until	cho đến
+since	từ
+while	trong khi
+because	bởi vì
+if	nếu
+who	ai
+what	cái gì
+when	khi nào
+where	ở đâu
+why	tại sao
+how	làm thế nào
+and	và
+or	hoặc
+but	nhưng
+not	không
+also	cũng
+easy	dễ dàng
+difficult	khó khăn
+important	quan trọng
+unimportant	không quan trọng
+necessary	cần thiết
+unnecessary	không cần thiết
+possible	có thể
+impossible	không thể
+true	đúng
+false	sai
+enough	đủ
+not enough	không đủ
+near	gần
+far	xa
+up	lên
+down	xuống
+in front of	ở phía trước
+behind	ở phía sau
+above	ở trên
+below	ở dưới
+left	trái
+right	phải
+start	bắt đầu
+end	kết thúc
+first	đầu tiên
+last	cuối cùng
+after	sau
+before	trước
+during	trong khi
+unless	trừ khi
+although	mặc dù
+though	mặc dù
+so	vì vậy
+therefore	do đó
+yet	vẫn chưa
+love	yêu
+hate	ghét
+hope	hy vọng
+dream	mơ ước
+life	cuộc sống
+death	cái chết
+world	thế giới
+country	quốc gia
+city	thành phố
+town	thị trấn
+village	làng
+building	công trình xây dựng
+school	trường học
+hospital	bệnh viện
+bank	ngân hàng
+store	cửa hàng
+restaurant	nhà hàng
+movie theater	rạp chiếu phim
+museum	bảo tàng
+park	công viên
+beach	bãi biển
+mountain	núi
+river	sông
+ocean	đại dương
+animal	động vật
+plant	cây cối
+food	thức ăn
+drink	đồ uống
+clothes	quần áo
+shoes	giày dép
+computer	máy tính
+phone	điện thoại
+car	xe hơi
+train	tàu hỏa
+bus	xe buýt
+airplane	máy bay
+book	sách
+newspaper	tờ báo
+magazine	tạp chí
+music	âm nhạc
+movie	phim
+game	trò chơi
+sport	thể thao
+dance	nhảy
+art	nghệ thuật
+cooking	nấu ăn
+travel	du lịch
+work	công việc
+family	gia đình
+friends	bạn bè
+handsome	đẹp trai
+pretty	xinh xắn
+cute	dễ thương
+smart	thông minh
+funny	hài hước
+kind	tốt bụng
+helpful	tốt bụng
+friendly	thân thiện
+honest	trung thực
+brave	dũng cảm
+talented	tài năng
+creative	sáng tạo
+successful	thành công
+confident	tự tin
+stupid	ngu ngốc
+boring	nhàm chán
+mean	tàn nhẫn
+selfish	ích kỷ
+rude	thô lỗ
+dishonest	không trung thực
+cowardly	coi thường
+untalented	không tài năng
+uncreative	không sáng tạo
+unsuccessful	không thành công
+insecure	thiếu tự tin
+friend	bạn bè
+parent	cha mẹ
+child	con cái
+teacher	giáo viên
+doctor	bác sĩ
+nurse	y tá
+police officer	cảnh sát
+firefighter	lính cứu hỏa
+soldier	lính
+athlete	vận động viên
+actor	diễn viên
+singer	ca sĩ
+dancer	nhảy
+artist	nghệ sĩ
+musician	nhạc sĩ
+writer	nhà văn
+scientist	nhà khoa học
+engineer	kỹ sư
+house	nhà
+pen	bút
+pencil	bút chì
+paper	giấy
+chair	ghế
+table	bàn
+bed	giường
+jewelry	trang sức
+money	tiền
+home	nhà
+go	đi
+run	chạy
+walk	đi bộ
+sit	ngồi
+stand	đứng
+eat	ăn
+sleep	ngủ
+wake up	thức dậy
+study	học
+play	chơi
+watch	xem
+listen to	nghe
+read	đọc
+write	viết
+draw	vẽ
+sing	hát
+swim	bơi
+Flora	Thực vật
+Photosynthesis	Quang hợp
+Chlorophyll	Lục cầu
+Botany	Thực vật học
+Foliage	Tán lá
+Roots	Rễ
+Leaves	Lá
+Stems	Thân cây
+Branches	Cành cây
+Seed	Hạt giống
+Bud	Nụ
+Petal	Cánh hoa
+Pollen	Phấn hoa
+Nectar	Mật hoa
+Sap	Nước cây
+Photosynthesize	Tiến行 quang hợp
+Deciduous	Rụng lá
+Evergreen	Luôn xanh
+Perennial	Cây lâu năm
+Annual	Cây một năm
+Biennial	Cây hai năm
+Coniferous	Có lá kim
+Decompose	Phân hủy
+Germinate	Nảy mầm
+Pollinate	Bestäubung
+Graft	Cấy ghép
+Prune	Tỉa cành
+Hybrid	Lai tạo
+Photosynthetic	Có quang hợp
+Fertilizer	Phân bón
+Compost	Phân hữu cơ
+Soil	Đất
+Humus	Tro tàn cây
+Mulch	Lớp phủ
+Garden	Vườn
+Orchard	Vườn cây ăn quả
+Greenhouse	Nhà kính
+Lawn	Bãi cỏ
+Weed	Cỏ dại
+Pest	Sâu bệnh
+Insecticide	Thuốc trừ sâu
+Herbicide	Thuốc diệt cỏ
+Gardener	Người làm vườn
+Horticulturist	Nhà vườn học
+Arborist	Người chăm sóc cây cối
+Landscaper	Người thiết kế cảnh quan
+Florist	Người bán hoa
+Bonsai	Cây cảnh
+Tulip	Hoa tulip
+Rose	Hoa hồng
+Lily	Hoa Lily
+Sunflower	Hoa hướng dương
+Learning	Học tập
+Knowledge	Kiến thức
+Study	Học
+Student	Học sinh
+Teacher	Giáo viên
+Classroom	Phòng học
+Homework	Bài tập về nhà
+Textbook	Sách giáo khoa
+Library	Thư viện
+Reading	Đọc
+Writing	Viết
+Grammar	Ngữ pháp
+Vocabulary	Từ vựng
+Exam	Kỳ thi
+Quiz	Bài kiểm tra ngắn
+Assignment	Bài tập
+Essay	Bài tiểu luận
+Report	Báo cáo
+Project	Dự án
+Group Work	Công việc nhóm
+Presentation	Bài thuyết trình
+Research	Nghiên cứu
+Problem Solving	Giải quyết vấn đề
+Critical Thinking	Tư duy phản biện
+Analysis	Phân tích
+Synthesis	Tổng hợp
+Evaluation	Đánh giá
+Comprehension	Hiểu biết sâu rộng
+Concentration	Tập trung
+Note-taking	Ghi chú
+Time Management	Quản lý thời gian
+Stress Management	Quản lý căng thẳng
+Goal Setting	Đặt mục tiêu
+Motivation	Động lực
+Revision	Ôn tập
+Practice	Luyện tập
+Classmate	Bạn cùng lớp
+Grade	Điểm số
+Diploma	Bằng tốt nghiệp
+Degree	Bằng cấp
+Lecture	Bài giảng
+Seminar	Hội thảo
+Tutorial	Buổi hướng dẫn
+Classical	Phong cách cổ điển
+Experimental	Thí nghiệm
+Literary	Thuộc văn học
+Analytical	Phân tích
+Theoretical	Lý thuyết
+Practical	Thực hành
+Interactive	Tương tác
+Online Learning	Học trực tuyến
+Distance Learning	Học từ xa
+E-learning	Học điện tử
+MOOC (Massive Open Online Course)	Khóa học trực tuyến đại trà
+Assignment Deadline	Hạn nộp bài tập
+Plagiarism	Sao chép bài viết của người khác
+Citation	Trích dẫn
+Bibliography	Danh mục tài liệu tham khảo
+Peer Review	Xem xét bài viết bởi đồng nghiệp
+Thesis	Luận án
+Dissertation	Luận văn
+Scholarship	Học bổng
+Grant	Khoản tiền hỗ trợ nghiên cứu
+Tuition	Học phí
+Student Loan	Vay tiền học sinh
+Financial Aid	Hỗ trợ tài chính
+Graduate School	Trường sau đại học
+Undergraduate	Sinh viên đại học
+Postgraduate	Sinh viên sau đại học
+Alumni	Cựu sinh viên
+Dean	Hiệu trưởng khoa
+Professor	Giáo sư
+Lecturer	Giảng viên
+Researcher	Nhà nghiên cứu
+Academic Advisor	Người tư vấn học vấn
+Examination Hall	Hội trường thi
+Blackboard	Bảng đen
+Whiteboard	Bảng trắng
+Projector	Máy chiếu
+Easel	Giá treo bảng
+Microscope	Kính hiển vi
+Calculator	Máy tính bỏ túi
+Lab Coat	Áo khoác thí nghiệm
+Safety Goggles	Kính bảo hộ
+Bunsen Burner	Bếp Bunsen
+Petri Dish	Đĩa Petri
+Test Tube	Ống nghiệm
+Microscope Slide	Lát kính hiển vi
+Beaker	Bình nghiệm
+Chemical Reaction	Phản ứng hóa học
+Hypothesis	Giả thuyết
+Conclusion	Kết luận
+Experimentation	Thí nghiệm
+Accept	Chấp nhận
+Analyze	Phân tích
+Apply	Áp dụng
+Approve	Chấp thuận
+Assign	Giao nhiệm vụ
+Calculate	Tính toán
+Compile	Biên dịch
+Critique	Phê phán
+Define	Định nghĩa
+Demonstrate	Chứng minh
+Design	Thiết kế
+Explain	Giải thích
+Generate	Tạo ra
+Hypothesize	Đặt giả thuyết
+Implement	Thực hiện
+Interpret	Diễn giải
+Investigate	Điều tra
+Model	Mô hình hóa
+Observe	Quan sát
+Predict	Dự đoán
+Prioritize	Ưu tiên
+Problem Solve	Giải quyết vấn đề
+Record	Ghi lại
+Revise	Sửa lại
+Simulate	Mô phỏng
+Solve	Giải quyết
+Visualize	Hình dung
+About	Về
+After	Sau
+Against	Chống lại
+Among	Trong số
+Around	Xung quanh
+As	Như
+Because	Bởi vì
+Before	Trước
+Below	Phía dưới
+Beside	Bên cạnh
+Beyond	Vượt ra ngoài
+But	Nhưng
+By	Bằng
+Despite	Mặc dù
+During	Trong suốt
+For	Cho
+From	Từ
+In	Trong
+Into	Vào
+Like	Như
+Near	Gần
+Of	Của
+Off	Tắt
+On	Trên
+Onto	Lên
+Out	Ra ngoài
+Over	Trên
+Since	Từ khi
+Through	Qua
+Throughout	Suốt
+To	Đến
+Toward	Hướng về
+Underneath	Bên dưới
+Until	Cho đến khi
+Up	Lên
+Upon	Trên
+With	Với
+Within	Trong
+Without	Không có
+And	Và
+Or	Hoặc
+So	Vì vậy
+Yet	Tuy nhiên
+Although	Mặc dù
+While	Trong khi
+Observation	Quan sát
+Data	Dữ liệu
+Theory	Lý thuyết
+Law	Luật
+Variable	Biến số
+Sample	Mẫu
+Population	Dân số
+Accuracy	Độ chính xác
+Precision	Độ chính xác
+Replicate	Nhân bản
+Empirical	Dựa vào thực nghiệm
+Quantitative	Số lượng
+Qualitative	Chất lượng
+Inference	Sự suy luận
+Correlation	Tương quan
+Causation	Nguyên nhân
+Ethics	Đạo đức học
+Bias	Thiên lệch
+Validity	Tính hợp lệ
+Reliability	Tính đáng tin cậy
+Simulation	Mô phỏng
+Gene	Gen
+DNA	ADN
+RNA	ARN
+Cell	Tế bào
+Organism	Cơ thể
+Ecosystem	Hệ sinh thái
+Evolution	Tiến hóa
+Mutation	Đột biến
+Natural Selection	Sự chọn lọc tự nhiên
+Species	Loài
+Biodiversity	Đa dạng sinh học
+Genetics	Di truyền học
+Biotechnology	Công nghệ sinh học
+Biochemistry	Hóa sinh
+Neuroscience	Khoa học não học
+Well-being	Sự an khang
+Balance	Sự cân đối
+Harmony	Sự hòa hợp
+Contentment	Sự bằng lòng
+Gratitude	Lòng biết ơn
+Kindness	Tấm lòng tử tế
+Compassion	Tình thương
+Resilience	Sự kiên nhẫn
+Patience	Sự kiên nhẫn
+Wisdom	Sự khôn ngoan
+Purpose	Mục đích
+Meaning	Ý nghĩa
+Passion	Niềm đam mê
+Creativity	Sự sáng tạo
+Exploration	Sự khám phá
+Discovery	Sự khám phá
+Achievement	Thành tựu
+Fulfillment	Sự thỏa mãn
+Satisfaction	Sự hài lòng
+Ambition	Sự hoài bão
+Determination	Sự quyết tâm
+Confidence	Sự tự tin
+Adversity	Khó khăn
+Integrity	Sự liêm chính
+Authenticity	Sự chân thật
+Diversity	Sự đa dạng
+Inclusion	Sự bao gồm
+Equality	Sự bình đẳng
+Empowerment	Sự ủng hộ
+Community	Cộng đồng
+Belonging	Sự thuộc về
+Connection	Sự kết nối
+Sustainability	Sự bền vững
+Mindfulness	Tỉnh thức
+Self-care	Chăm sóc bản thân
+Wellness	Sự khỏe mạnh
+Exercise	Tập luyện
+Nutrition	Dinh dưỡng
+Leisure	Thời gian rỗi
+Hobby	Sở thích
+Recreation	Giải trí
+Gender	Giới tính
+Sex	Tình dục
+Male	Nam
+Female	Nữ
+Transgender	Người chuyển giới
+Cisgender	Người không chuyển giới
+Non-binary	Không thuộc hai giới tính
+Gender Identity	Bản thân về giới tính
+Sexual Orientation	Gắn bó về tình dục
+Heterosexual	Người đồng tính khác giới
+Homosexual	Người đồng tính cùng giới
+Bisexual	Người song tính
+Pansexual	Người yêu cả hai giới
+Asexual	Người không muốn quan hệ tình dục
+Queer	Người đồng tính khác thường
+Intersex	Người sinh với các đặc điểm giới tính không rõ ràng
+Ally	Người ủng hộ cộng đồng LGBTQ+
+Coming Out	Tiết lộ bản thân
+Sexual Attraction	Sự hấp dẫn tình dục
+Romantic Attraction	Sự hấp dẫn tình yêu
+Intimate Relationship	Mối quan hệ thân mật
+Consent	Sự đồng tình
+Safe Sex	Quan hệ tình dục an toàn
+Birth Control	Phương pháp tránh thai
+Abstinence	Tự kiểm soát
+Reproductive Rights	Quyền sinh sản
+Sexual Health	Sức khỏe tình dục
+STI (Sexually Transmitted Infection)	Bệnh lây truyền qua đường tình dục
+HIV/AIDS	HIV/ AIDS
+Condom	Bao cao su
+Pregnancy	Thai nghén
+Abortion	Phá thai
+Reproductive Health	Sức khỏe sinh sản
+Puberty	Tuổi dậy thì
+Menstruation	Kinh nguyệt
+Menopause	Tuổi mãn kinh
+Erectile Dysfunction	Rối loạn cương dương
+Sexual Dysfunction	Rối loạn tình dục
+Libido	Ham muốn tình dục
+Orgasm	Cực khoái
+Foreplay	Trò chơi tình dục
+Intimacy	Tình mật
+Fetish	Sở thích tình dục
+Kink	Nguồn gốc tình dục đặc biệt
+Polyamory	Quan hệ nhiều người
+Monogamy	Quan hệ độc thân
+Open Relationship	Quan hệ mở
+Marriage	Hôn nhân
+Divorce	Ly hôn
+Sexual Education	Giáo dục tình dục
+Reproductive Education	Giáo dục sinh sản
+Sexual Health Clinic	Phòng khám sức khỏe tình dục
+Gender Roles	Vai trò giới tính
+Sexual Harassment	Quấy rối tình dục
+Consent Education	Giáo dục về sự đồng tình
+Body Positivity	Tích cực về cơ thể
+Self-love	Tự yêu
+Pride	Niềm tự hào
+Safe Space	Khu vực an toàn
+Rainbow Flag	Cờ cầu vồng
+Drag Queen/King	Nữ hoàng/Nam vương biểu diễn
+Transitioning	Quá trình chuyển giới
+Gender Expression	Biểu hiện giới tính
+Dysphoria	Sự căm ghét bản thân
+Politics	Chính trị
+Republic	Cộng hòa
+Monarchy	Nền quân chủ
+Dictatorship	Nền độc tài
+Authoritarianism	Chủ nghĩa độc tài
+Totalitarianism	Chủ nghĩa toàn trị
+Oligarchy	Nền tư bản
+Aristocracy	Nền quý tộc
+Communism	Chủ nghĩa cộng sản
+Socialism	Chủ nghĩa xã hội
+Capitalism	Chủ nghĩa tư bản
+Liberalism	Chủ nghĩa tự do
+Conservatism	Chủ nghĩa bảo thủ
+Fascism	Chủ nghĩa phát xít
+Nationalism	Chủ nghĩa dân tộc
+Globalization	Toàn cầu hóa
+Policy	Chính sách
+Legislation	Luật pháp
+Constitution	Hiến pháp
+Citizenship	Quyền công dân
+Rights	Quyền
+Civil Liberties	Tự do công dân
+Human Rights	Quyền con người
+Sovereignty	Chủ quyền
+Diplomacy	Ngoại giao
+Foreign Policy	Chính sách đối ngoại
+Domestic Policy	Chính sách nội địa
+Election	Cuộc bầu cử
+Voting	Bỏ phiếu
+Candidate	Ứng viên
+Party	Đảng
+Opposition	Đối lập
+Coalition	Liên minh
+Bipartisanship	Chính sách hai đảng
+Lobbying	Hoạt động vận động
+Corruption	Tham nhũng
+Transparency	Sự minh bạch
+Accountability	Sự chịu trách nhiệm
+Bureaucracy	Bộ máy hành chính
+Public Service	Công vụ công
+Welfare	Phúc lợi xã hội
+Taxation	Thuế
+Budget	Ngân sách
+Deficit	Thâm hụt
+Debt	Nợ
+Security	An ninh
+Terrorism	Khủng bố
+Diplomat	Nhà ngoại giao
+Statesman	Người chính trị gia
+Activist	Người hoạt động xã hội
+Voter	Người bỏ phiếu
+Gross Domestic Product (GDP)	Sản phẩm quốc nội
+Inflation	Lạm phát
+Deflation	Thiếu hụt lạm phát
+Unemployment	Tình trạng thất nghiệp
+Employment	Tình trạng việc làm
+Labor Market	Thị trường lao động
+Supply and Demand	Cung cầu
+Market Economy	Kinh tế thị trường
+Command Economy	Kinh tế mệnh lệnh
+Mixed Economy	Kinh tế hỗn hợp
+Monetary Policy	Chính sách tiền tệ
+Fiscal Policy	Chính sách tài khóa
+Budget Deficit	Thâm hụt ngân sách
+National Debt	Nợ công
+Interest Rate	Lãi suất
+Exchange Rate	Tỷ giá hối đoái
+Foreign Direct Investment (FDI)	Đầu tư trực tiếp nước ngoài
+Trade Balance	Cân đối thương mại
+Tariff	Thuế nhập khẩu
+Subsidy	Trợ cấp
+Income Tax	Thuế thu nhập
+Value Added Tax (VAT)	Thuế giá trị gia tăng
+Corporate Tax	Thuế doanh nghiệp
+Consumption	Tiêu thụ
+Savings	Tiết kiệm
+Investment	Đầu tư
+Capital	Vốn
+Entrepreneur	Doanh nhân
+Profit	Lợi nhuận
+Loss	Lỗ
+Monopoly	Độc quyền
+Oligopoly	Chế độ đa quyền
+Competition	Cạnh tranh
+Market Structure	Cơ cấu thị trường
+Elasticity	Độ co dãn
+Demand Elasticity	Độ co dãn cầu
+Supply Elasticity	Độ co dãn nguồn cung
+Utility	Hữu ích
+Marginal Utility	Hữu ích biên giới
+Economies of Scale	Quy mô kinh tế
+Opportunity Cost	Chi phí cơ hội
+Scarcity	Sự khan hiếm
+Resource Allocation	Phân bổ nguồn lực
+Sustainable Development	Phát triển bền vững
+Monetary Unit	Đơn vị tiền tệ
+Banking System	Hệ thống ngân hàng
+Stock Market	Thị trường chứng khoán
+Interest	Lãi suất
+Credit	Tín dụng
+Recession	Suy thoái kinh tế
+Ancient	Cổ đại
+Civilization	Nền văn minh
+Empire	Đế quốc
+Dynasty	Triều đại
+Revolution	Cách mạng
+Colonization	Thực dân
+Independence	Độc lập
+Colonialism	Chủ nghĩa thực dân
+Industrialization	Công nghiệp hóa
+Renaissance	Phục hưng
+Enlightenment	Thời kỳ Khai sáng
+Feudalism	Chủ nghĩa phong kiến
+Cold War	Chiến tranh Lạnh
+World War	Thế chiến
+Genocide	Tội diệt chủng
+Holocaust	Nạn diệt chủng
+Reformation	Cải cách tôn giáo
+Enslavement	Sự nô lệ
+Civil Rights Movement	Phong trào dân quyền
+Industrial Revolution	Cách mạng công nghiệp
+Imperialism	Chủ nghĩa đế quốc
+Rise	Sự nổi lên
+Golden Age	Thời kỳ hoàng kim
+Great Depression	Đại suy thoái
+Cultural Exchange	Sự giao lưu văn hóa
+Invention	Sự phát minh
+Conquest	Sự chinh phục
+Declaration of Independence	Tuyên ngôn Độc lập
+Founding Fathers	Các tổ tiên sáng lập
+Slavery	Nô lệ
+Abolition	Sự huỷ bỏ
+Suffrage	Quyền bầu cử
+Revolt	Cuộc nổi dậy
+Alliance	Liên minh
+Treaty	Hiệp định
+Invasion	Sự xâm lược
+Occupation	Sự chiếm đóng
+Resistance	Sự kháng cự
+Assassination	Vụ ám sát
+Reform	Cải cách
+Rebellion	Cuộc nổi loạn
+Algebra	Đại số
+Geometry	Hình học
+Calculus	Phân tích
+Statistics	Thống kê
+Probability	Xác suất
+Equation	Phương trình
+Function	Hàm số
+Matrix	Ma trận
+Vector	Vector
+Set	Tập hợp
+Fraction	Phân số
+Decimal	Số thập phân
+Exponent	Số mũ
+Root	Căn
+Derivative	Đạo hàm
+Integral	Tích phân
+Trigonometry	Ngũ giác
+Angle	Góc
+Theorem	Định lí
+Proof	Chứng minh
+Axiom	Tiên đề
+Prime Number	Số nguyên tố
+Composite Number	Số hợp
+Odd Number	Số lẻ
+Even Number	Số chẵn
+Factor	Thừa số
+Multiple	Bội số
+Divisor	Ước số
+Ratio	Tỷ lệ
+Proportion	Tỉ lệ tương đương
+Geometric Progression	Cấp số nhân
+Arithmetic Progression	Cấp số cộng
+Series	Dãy số
+Polynomial	Đa thức
+Quadratic Equation	Phương trình bậc hai
+Linear Equation	Phương trình tuyến tính
+Logarithm	Logarit
+Exponential Function	Hàm mũ
+Limit	Giới hạn
+Infinity	Vô cực
+Complex Number	Số phức
+Rational Number	Số hữu tỷ
+Irrational Number	Số vô tỷ
+Real Number	Số thực
+Imaginary Number	Số ảo
+Function Notation	Ký hiệu hàm
+Roots of Equation	Nghiệm của phương trình
+Coordinate System	Hệ tọa độ
+Graph	Đồ thị
+Triangle	Tam giác
+Circle	Hình tròn
+Rectangle	Hình chữ nhật
+Square	Hình vuông
+Ellipse	Hình elip
+Parabola	Đường cong parabol
+Fiction	Tiểu thuyết
+Non-fiction	Phi hư cấu
+Novel	Tiểu thuyết
+Short Story	Truyện ngắn
+Poetry	Thơ
+Drama	Kịch
+Tragedy	Bi kịch
+Comedy	Hài kịch
+Prose	Văn xuôi
+Verse	Thơ
+Author	Tác giả
+Writer	Nhà văn
+Poet	Nhà thơ
+Playwright	Nhà soạn kịch
+Narrator	Người kể chuyện
+Plot	Cốt truyện
+Character	Nhân vật
+Setting	Bối cảnh
+Theme	Chủ đề
+Symbolism	Tượng trưng học
+Imagery	Hình ảnh
+Metaphor	Ẩn dụ
+Simile	So sánh
+Irony	Mỉa mai
+Foreshadowing	Sự báo trước
+Resolution	Sự giải quyết
+Genre	Thể loại
+Classic	Tác phẩm kinh điển
+Contemporary	Đương đại
+Historical Fiction	Tiểu thuyết lịch sử
+Biography	Tiểu sử
+Autobiography	Tự truyện
+Satire	Châm biếm
+Allegory	Ngụ ý
+Fable	Truyện ngụ ngôn
+Myth	Thần thoại
+Legend	Huyền thoại
+Epic	Thiên anh hùng ca
+Sonnet	Bài thơ sonnet
+Haiku	Thơ haiku
+Rhythm	Nhịp điệu
+Meter	Nhịp
+Stanza	Khúc
+Rhyme	Vần
+Alliteration	Tiếng lặp
+Assonance	Âm vị
+Onomatopoeia	Từ tượng âm
+Pun	Từ ngôn ngữ
+Hyperbole	Phóng đại
+Oxymoron	Sự nghịch ngợm
+Euphemism	Từ ngữ tả ý tứ
+Cliché	Cụm từ rập khuôn
+Juxtaposition	Sự đặt cạnh nhau
+Ecstatic	Hết sức vui mừng
+Furious	Tức giận, giận dữ
+Elated	Hân hoan, phấn khích
+Somber	U buồn, đầy nghĩa trang
+Thrilled	Rất hứng thú, sôi nổi
+Satisfied	Hài lòng, thỏa mãn
+Baffled	Bối rối, lúng túng
+Disheartened	Nản lòng, chán chường
+Infuriated	Phát điên lên, tức giận
+Overjoyed	Rất vui mừng
+Indifferent	Hờ hững, thờ ơ
+Optimistic	Lạc quan, lạc quan về tương lai
+Pessimistic	Bi quan, bi quan về tương lai
+Apathetic	Lạnh lùng, thờ ơ
+Resigned	Buông bỏ, chấp nhận
+Anxious	Lo lắng, bồn chồn
+Amused	Vui vẻ, thích thú
+Enthusiastic	Hăng hái, nhiệt tình
+Relieved	Nhẹ nhõm, nhẹ nhàng
+Playful	Đùa giỡn, tinh nghịch
+Hopeful	Hi vọng, đầy hy vọng
+Frustrated	Thất vọng, bực tức
+Loving	Yêu thương, ân cần
+Hostile	Thù địch, căm ghét
+Compassionate	Thông cảm, từ bi
+Empathetic	Đồng cảm, cảm thông
+Apologetic	Xin lỗi, hối lỗi
+Grateful	Biết ơn, lòng biết ơn
+Defiant	Thách thức, bất bình
+Proud	Tự hào, kiêu hãnh
+Modest	Khiêm tốn, sederhana
+Contemptuous	Khinh bỉ, coi thường
+Admiring	Ngưỡng mộ, kính trọng
+Disgusted	Chán ghét, kinh tởm
+Sympathetic	Đồng cảm, thương cảm
+Mocking	Chế giễu, trêu chọc
+Worried	Lo lắng, lo sợ
+Tense	Căng thẳng, căng
+Dismissive	Hờ hững, coi nhẹ
+Impatient	Nóng vội, nôn nóng
+Nostalgic	Hoài niệm, hoài cổ
+Hopeless	Không hy vọng, tuyệt vọng
+Compassionless	Vô tâm, lạnh lùng
+Eager	Hăm hở, háo hức
+Bemused	Bị lạc hướng, bị lạc lối
+Artificial Intelligence	Trí tuệ nhân tạo
+Machine Learning	Học máy
+Deep Learning	Học sâu
+Neural Network	Mạng neuron
+Algorithm	Thuật toán
+Big Data	Dữ liệu lớn
+Cloud Computing	Điện toán đám mây
+Virtual Reality	Thực tế ảo
+Augmented Reality	Thực tế mở rộng
+Internet of Things (IoT)	Internet của mọi vật
+Blockchain	Công nghệ chuỗi khối
+Cryptocurrency	Tiền điện tử
+Cybersecurity	Bảo mật mạng
+Encryption	Mã hóa
+IoT Security	Bảo mật IoT
+Data Mining	Khai thác dữ liệu
+Quantum Computing	Tính toán lượng tử
+Fintech	Công nghệ tài chính
+3D Printing	In 3D
+Robotics	Công nghệ robot
+Nanotechnology	Công nghệ nano
+Smartphone	Điện thoại thông minh
+Tablet	Máy tính bảng
+Smartwatch	Đồng hồ thông minh
+Virtual Assistant	Trợ lý ảo
+Autonomous Vehicles	Xe tự hành
+Drone	Máy bay không người lái
+Smart Home	Nhà thông minh
+Biometric Authentication	Xác thực sinh học
+Augmented Human	Con người mở rộng
+Voice Recognition	Nhận diện giọng nói
+Facial Recognition	Nhận diện khuôn mặt
+Cyber-Physical Systems	Hệ thống vật lý kỹ thuật số
+Quantum Cryptography	Mật mã học lượng tử
+Digital Twin	Bản sao kỹ thuật số
+5G Technology	Công nghệ 5G
+Biometric Sensors	Cảm biến sinh học
+Neuromorphic Computing	Tính toán sinh học
+Edge Computing	Tính toán cạnh
+Smart Grid	Lưới điện thông minh
+Internet Backbone	Trục sợi quang Internet
+Digital Transformation	Biến đổi số
+Cyber-Physical Security	Bảo mật vật lý kỹ thuật số
+Voice Assistant	Trợ lý giọng nói
+Machine Vision	Thị giác máy
+Smart City	Thành phố thông minh
+Biometric Verification	Xác minh sinh học
+Chatbot	Trò chuyện tự động
+Lake	Hồ
+Leaf	Lá
+Grass	Cỏ
+Rock	Đá
+Cave	Hang động
+Mammal	Động vật có vú
+Reptile	Động vật có vảy
+Amphibian	Động vật lưỡng cư
+Conservation	Bảo tồn
+Pollution	Ô nhiễm
+Hurricane	Bão lớn
+Flood	Lụt lớn
+Drought	Hạn hán
+Wildfire	Cháy rừng
+Aurora	Aurora
+Tide	Thủy triều
+Geology	Địa chất học
+Zoology	Động vật học
+Meteorology	Khí tượng học
+Ecology	Sinh thái học
+Landscape	Phong cảnh
+Scenery	Phong cảnh
+Habitat	Môi trường sống
+Conservation Area	Khu bảo tồn
+National Park	Vườn quốc gia
+Vitamin	Vitamin
+Hydration	Thủy phân
+Stress	 căng thẳng
+Immunity	Miễn dịch
+Diet	Chế độ ăn uống
+Protein	Chất đạm
+Carbohydrate	Chất bột
+Fiber	Chất xơ
+Mineral	Khoáng chất
+Calorie	Calo
+Antioxidant	Chất chống oxi hóa
+Meditation	Thiền định
+Yoga	Yoga
+Aerobics	Bài tập thể dục
+Cardio	Thể dục tim mạch
+Flexibility	Tính linh hoạt
+Endurance	Khả năng chịu đựng
+Mental Health	Sức khỏe tâm thần
+Physical Health	Sức khỏe thể chất
+Emotional Health	Sức khỏe tinh thần
+Holistic	Toàn diện
+Therapy	Trị liệu
+Counseling	Tư vấn
+Healthcare	Chăm sóc sức khỏe
+Prevention	Phòng ngừa
+Treatment	Điều trị
+Recovery	Hồi phục
+Disease	Bệnh tật
+Illness	Bệnh tật
+Infection	Nhiễm trùng
+Pain	Đau đớn
+Symptom	Triệu chứng
+Diagnosis	Chuẩn đoán
+Prescription	Đơn thuốc
+Pharmacy	Nhà thuốc
+Doctor	Bác sĩ
+Nurse	Y tá
+Patient	Bệnh nhân
+Therapist	Người điều trị
+Exercise routine	Lịch trình tập luyện
+Healthy eating	Ăn uống lành mạnh
+Wellness program	Chương trình chăm sóc sức khỏe
+Sofa	Ghế sô pha
+Bed	Giường
+Wardrobe	Tủ quần áo
+Shelf	Kệ sách
+Drawer	Hộc kéo
+Mirror	Gương
+Couch	Ghế dài
+Lamp	Đèn bàn
+Ceiling Fan	Quạt trần
+Curtains	Rèm cửa
+Carpet	Thảm
+Dining Table	Bàn ăn
+Fridge	Tủ lạnh
+Microwave	Lò vi sóng
+Oven	Lò nướng
+Dishwasher	Máy rửa chén
+Sink	Bồn rửa
+Toilet	Bồn cầu
+Shower	Vòi sen
+Bathtub	Bồn tắm
+Towel	Khăn tắm
+Toothbrush	Bàn chải đánh răng
+Toothpaste	Kem đánh răng
+Soap	Xà phòng
+Shampoo	Dầu gội đầu
+Conditioner	Dầu xả
+Hairdryer	Máy sấy tóc
+Comb	Lược
+Brush	Bàn chải
+Toilet Paper	Giấy vệ sinh
+Trash Can	Thùng rác
+Vacuum Cleaner	Máy hút bụi
+Broom	Cái chổi
+Mop	Cái lau nhà
+Bucket	Cái xô
+Dustpan	Cái xẻng hốc rác
+Laundry Basket	Giỏ đựng quần áo dơ
+Iron	Bàn ủi
+Ironing Board	Bàn ủi
+Drying Rack	Kệ phơi đồ
+Clothes Hanger	Móc treo quần áo
+Candle	Nến
+Matches	Que diêm
+Light Bulb	Bóng đèn
+Batteries	Pin
+Remote Control	Điều khiển từ xa
+Clock	Đồng hồ
+Calendar	Lịch
+Bookshelf	Kệ sách
+Cushion	Gối trang trí
+Vase	Bình hoa
+Knife	Con dao
+Fork	Nĩa
+Spoon	Thìa
+Plate	Dĩa
+Bowl	Cái tô
+Cup	Cái cốc
+Mug	Cái ly
+Glass	Cái ly thủy tinh
+Pot	Cái nồi
+Pan	Chảo
+Stove	Bếp
+Blender	Máy trộn
+Toaster	Máy nướng bánh mỳ
+Kettle	Ấm đun nước
+Refrigerator	Tủ lạnh
+Freezer	Ngăn đá
+Cutting Board	Thớt cắt
+Grater	Dụng cụ bào
+Peeler	Dao gọt vỏ
+Whisk	Đánh trứng
+Measuring Cup	Cốc đo lường
+Scale	Cái cân
+Timer	Đồng hồ bấm giờ
+Spatula	Cái xẻng
+Tongs	Kìm
+Ladle	Cái thìa múc
+Colander	Cái rổ
+Can Opener	Dụng cụ mở hộp
+Rolling Pin	Cái cán bột
+Mortar and Pestle	Gia vị nghiền
+Pepper Grinder	Máy xay tiêu
+Corkscrew	Dụng cụ mở nút chai
+Strainer	Cái rổ lọc
+Cookie Cutter	Khuôn bánh quy
+Grill	Vỉ nướng
+Skillet	Chảo rán
+Salad Spinner	Máy vắt rau
+Baking Sheet	Khay nướng bánh
+Muffin Tin	Khuôn làm bánh mỳ
+Mixing Bowl	Cái tô trộn
+Saucepan	Cái chảo dùng để hầm nấu sốt
+Dutch Oven	Nồi đất nung
+Pitcher	Bình đựng nước
+Teapot	Ấm đun nước dùng pha trà
+Coffee Maker	Máy pha cà phê
+Wine Glass	Cái ly rượu vang
+Champagne Flute	Cái ly rượu sâm banh
+Calm	Bình tĩnh
+Confused	Bối rối
+Surprised	Ngạc nhiên
+Content	Hài lòng
+Disappointed	Thất vọng
+Puzzled	Rối bời
+Curious	Tò mò
+Frightened	Sợ hãi
+Bored	Chán chường
+Regretful	Hối hận
+Carefree	Vô tư
+Selfish	Ích kỷ
+Brave	Can đảm
+Cowardly	Nhát gan
+Graceful	Du dương
+Awkward	Lúng túng
+Creative	Sáng tạo
+Destructive	Phá hoại
+Constructive	Xây dựng
+Responsible	Trách nhiệm
+Irresponsible	Bất trách nhiệm
+Independent	Độc lập
+Dependent	Phụ thuộc
+Organized	Ngăn nắp
+Disorganized	Lộn xộn
+Courageous	Dũng cảm
+Fearful	Sợ hãi
+Extroverted	Hướng ngoại
+Forgiving	Khoan dung
+Vengeful	Thù địch
+Heartless	Vô tâm
+Insensitive	Thiếu cảm giác
+Arrogant	Kiêu ngạo
+Caring	Chăm sóc
+Neglectful	Sao nhãng
+Sensible	Rõ ràng
+Senseless	Vô lý
+Unimaginative	Thiếu tưởng tượng
+Sincere	Chân thành
+Insincere	Không chân thành
+Adaptable	Linh hoạt
+Inflexible	Cứng nhắc
+Hardworking	Chăm chỉ
+Negligent	Sao nhãng
+Punctual	Đúng giờ
+Tardy	Đến trễ
+Flexible	Linh hoạt
+Rigid	Cứng nhắc
+Genuine	Chân thành
+Fake	Giả mạo
+Respectful	Tôn trọng
+Disrespectful	Thiếu tôn trọng
+Logical	Hợp lý
+Illogical	Vô lý
+Loyal	Trung thành
+Unfaithful	Không trung thành
+Cruel	Tàn nhẫn
+Humble	Khiêm nhường
+Inquisitive	Tò mò
+Passionate	Đam mê
+Resourceful	Tháo vát
+Helpless	Bất lực
+Cheerful	Vui vẻ
+Melancholic	Buồn bã
+Jovial	Vui vẻ
+Gloomy	U sầu
+Timid	Nhút nhát
+Fearless	Táo bạo
+Daring	Dũng cảm
+Assertive	Quả quyết
+Passive	Thụ động
+Perceptive	Nhạy bén
+Observant	Tinh ý
+Unobservant	Mờ nhạt
+Considerate	Cân nhắc
+Thoughtless	Thiếu suy nghĩ
+Cooperative	Hợp tác
+Stubborn	Bướng bỉnh
+Fragile	Mong manh
+Durable	Bền bỉ
+Gullible	Dễ tin
+Skeptical	Nghi ngờ
+Trustworthy	Đáng tin cậy
+Unreliable	Không đáng tin cậy
+Argue	Tranh luận
+Avoid	Tránh
+Believe	Tin tưởng
+Choose	Chọn
+Complain	Khiếu nại
+Consider	Cân nhắc
+Construct	Xây dựng
+Discuss	Thảo luận
+Doubt	Nghi ngờ
+Examine	Kiểm tra
+Expect	Mong đợi
+Forgive	Tha thứ
+Give	Cho
+Grieve	Thương tiếc
+Hurt	Làm tổn thương
+Imagine	Tưởng tượng
+Inspect	Kiểm tra
+Strive	Cố gắng
+Admire	Ngưỡng mộ
+Advise	Khuyên bảo
+Aid	Hỗ trợ
+Amuse	Làm vui
+Announce	Thông báo
+Apologize	Xin lỗi
+Ascend	Leo lên
+Assist	Hỗ trợ
+Attack	Tấn công
+Attract	Thu hút
+Bake	Nướng
+Bless	Ban phước
+Bluff	Lừa gạt
+Capture	Bắt giữ
+Chat	Nói chuyện
+Cheer	Cổ vũ
+Comfort	An ủi
+Compete	Cạnh tranh
+Confront	Đối mặt
+Confuse	Làm rối
+Connect	Kết nối
+Conserve	Bảo tồn
+Console	An ủi
+Contribute	Đóng góp
+Cope	Đương đầu
+Correct	Sửa chữa
+Criticize	Phê phán
+Cry	Khóc
+Decline	Từ chối
+Deliver	Giao hàng
+Depend	Phụ thuộc
+Descend	Hạ xuống
+Describe	Mô tả
+Determine	Xác định
+Direct	Chỉ đạo
+Divide	Chia
+Educate	Giáo dục
+End	Kết thúc
+Establish	Thành lập
+Express	Bày tỏ
+Fight	Chiến đấu
+Find	Tìm thấy
+Finish	Hoàn thành
+Forget	Quên
+Freeze	Đóng băng
+Go	Đi
+Hug	Ôm
+Hunt	Săn
+Join	Tham gia
+Keep	Giữ
+Kill	Giết
+Kiss	Hôn
+Know	Biết
+Laugh	Cười
+Leave	Rời đi
+Live	Sống
+Make	Làm
+Marry	Kết hôn
+Meet	Gặp
+Need	Cần
+Pray	Cầu nguyện
+Remember	Nhớ
+BFF	Bạn thân
+Chill	Thong thả
+Lit	Phấn khích
+FOMO	Sợ bị bỏ lỡ
+Hangry	Thèm ăn
+Mood	Tâm trạng
+Savage	Tàn nhẫn
+Fam	Gia đình hoặc bạn bè
+Yolo	Chỉ sống một lần
+Slay	Thể hiện tài năng
+Swag	Phong cách
+Flex	Khoe khoang
+Dope	Tuyệt vời
+Grind	Cố gắng, làm việc chăm chỉ
+Dank	Tuyệt vời, xuất sắc
+Glow up	Biến hóa tốt đẹp
+GOAT	Người giỏi nhất
+Litty	Rất sôi động
+Vibes	Tâm trạng, cảm xúc
+Salty	Cay cú
+Squad	Nhóm bạn
+Thirsty	Khao khát
+Lit AF	Rất phấn khích
+Blessed	Được ban phước
+Woke	Nhận thức
+Bae	Người yêu
+Sis	Chị em
+Bruh	Thật không thể tin được
+Turnt	Rất vui
+Extra	Thái độ quá mức
+Bet	Đồng ý, chắc chắn
+Finesse	Khéo léo
+Lituation	Tình huống rất vui
+Drip	Phong cách thời trang đẳng cấp
+Hundo P	Chắc chắn, tuyệt đối
+Lame	Nhàm chán
+Fleek	Rất đẹp
+No cap	Không nói dối
+On fleek	Đẹp hoàn hảo
+Shade	Chê bai
+Sus	Nghi ngờ
+Vibe	Tâm trạng, cảm xúc
+Wavy	Thú vị
+Yeet	Từ thể hiện sự phấn khích hoặc vui mừng
+Flexin'	Khoe khoang
+On point	Hoàn hảo
+Hype	Phấn khích
+Gucci	Tốt, ok
+Generosity	Hào phóng
+Honesty	Tính trung thực
+Forgiveness	Sự tha thứ
+Humility	Sự khiêm tốn
+Curiosity	Sự tò mò
+Imagination	Sự tưởng tượng
+Emotion	Tình cảm
+Expression	Sự biểu đạt
+Communication	Giao tiếp
+Faith	Niềm tin
+God	Đức Chúa Trời
+Prayer	Lời cầu nguyện
+Worship	Sùng bái
+Religion	Tôn giáo
+Spirituality	Tâm linh
+Blessing	Ơn lành
+Sacred	Thánh thiêng
+Divine	Thiêng liêng
+Soul	Hồn
+Heaven	Thiên đàng
+Hell	Địa ngục
+Sin	Tội lỗi
+Repentance	Sự ăn năn
+Salvation	Sự cứu rỗi
+Redemption	Sự chuộc tội
+Devotion	Sự tận tâm
+Dharma	Luân lý
+Karma	Quả báo
+Hymn	Bài thánh ca
+Ritual	Nghi thức
+Ceremony	Nghi lễ
+Temple	Đền thờ
+Mosque	Nhà thờ Hồi giáo
+Church	Nhà thờ Kitô giáo
+Synagogue	Hội đường Do thái
+Guru	Người hướng dẫn tâm linh
+Prophet	Tiên tri
+Messianic	Nhân vật cứu thế
+Clergy	Người tu sĩ, linh mục
+Deity	Thần thánh
+Angel	Thiên thần
+Demon	Quỷ dữ
+Sacrifice	Sự hy sinh
+Fasting	Chay ăn
+Pilgrimage	Hành hương
+Holy book	Kinh thánh
+Covenant	Hiệp ước
+Virtue	Đức hạnh
+Sinful	Tội lỗi
+Atonement	Sự chuộc lỗi
+Baptism	Sự rửa tội
+Eucharist	Thánh Thể
+Revelation	Sự mở cửa
+Resurrection	Sự sống lại
+Worshipper	Người sùng bái
+Divinity	Thần thánh
+Fantasy	Viễn tưởng
+Mythology	Thần thoại
+Magic	Phép thuật
+Wizard	Pháp sư
+Witch	Phù thủy
+Elf	Thần tiên
+Dwarf	Người lùn
+Orc	Ork
+Goblin	Yêu tinh
+Fairy	Tiên
+Sorcerer	Thuật sĩ
+Enchant	Thôi miên
+Spell	Bùa ngải
+Sword	Kiếm
+Helmet	Mũ bảo hiểm
+Armor	Áo giáp
+Quest	Hành trình
+Expedition	Đội thám hiểm
+Alien	Người ngoài hành tinh
+Spaceship	Tàu vũ trụ
+Astronaut	Phi hành gia
+Extraterrestrial	Ngoài hành tinh
+UFO	Vật thể bay không xác định
+Time travel	Du hành thời gian
+Parallel universe	Vũ trụ song song
+Superpower	Siêu năng lực
+Teleportation	Di chuyển tức thì
+Invisibility	Tàng hình
+Mind control	Kiểm soát tâm trí
+Telekinesis	Năng lực vận động tư duy
+Shape-shifting	Biến hình
+Immortality	Bất tử
+Eternal youth	Tuổi thanh xuân vĩnh cửu
+Goddess	Nữ thần
+Creation	Sự sáng tạo
+Destruction	Sự phá hủy
+Fate	Số mệnh
+Destiny	Định mệnh
+Prophecy	Tiên tri
+Hero	Người hùng
+Villain	Kẻ ác
+Monarch	Vua chúa
+Kingdom	Vương quốc
+Realm	Thế giới
+Castle	Lâu đài
+Fortress	Pháo đài
+Magic potion	Thần dược
+Enchanted forest	Khu rừng ma thuật
+Mystical creature	Sinh vật thần bí
+Mermaid	Nàng tiên cá
+Centaur	Người kỳ mã
+Minotaur	Quái vật Minotaur
+Griffin	Kỳ lân
+Chimera	Thần hổ
+Hydra	Rồng nhiều đầu
+Cyclops	Người một mắt
+Pegasus	Ngựa Pegasus
+Nymph	Nữ thần suối nước
+Siren	Tiên cá hút hồn
+Fairy tale	Truyện cổ tích
+Wonderland	Thế giới kỳ diệu
+Labyrinth	Mê cung
+Alchemy	Giả kim
+Potion	Dược thảo
+Sorcery	Phép thuật
+Incantation	Lời nguyền
+Conjuring	Gọi hồn
+Mythical sword	Kiếm thần thoại
+Helm of invisibility	Mũ tàng hình
+Wand	Võng
+Amulet	Bùa trợ thần
+Oracle	Tiên tri
+Divine intervention	Can thiệp của thần linh
+Titan	Thần thú
+Norse mythology	Thần thoại Bắc Âu
+Greek mythology	Thần thoại Hy Lạp
+Roman mythology	Thần thoại La Mã
+Egyptian mythology	Thần thoại Ai Cập
+Chinese mythology	Thần thoại Trung Quốc
+Nordic gods	Thần thú Bắc Âu
+Olympian gods	Thần thế vị Olympus
+Underworld	Thế giới ngầm
+Elysium	Thiên đường
+Tartarus	Địa ngục sâu thẳm
+Valhalla	Thiên đường của các chiến binh viking
+Mount Olympus	Núi Olympos
+The Fates	Ba Moira
+The Muses	Các nữ thần người tạo cảm hứng
+Traffic	Giao thông
+Road	Đường
+Street	Phố
+Highway	Đường cao tốc
+Lane	Làn đường
+Sidewalk	Vỉa hè
+Intersection	Ngã tư
+Roundabout	Vòng xuyến
+Crosswalk	Vạch bộ ngang
+Traffic light	Đèn giao thông
+Stop sign	Biển stop
+Yield sign	Biển nhường đường
+Speed limit	Giới hạn tốc độ
+Pedestrian	Người đi bộ
+Cyclist	Người đi xe đạp
+Driver	Người lái xe
+Passenger	Hành khách
+Public transportation	Phương tiện công cộng
+Subway	Tàu điện ngầm
+Tram	Xe điện
+Taxi	Xe taxi
+Motorcycle	Xe máy
+Bicycle	Xe đạp
+Scooter	Xe tay ga
+Truck	Xe tải
+Van	Xe bán tải
+Ambulance	Xe cứu thương
+Fire truck	Xe cứu hỏa
+Police car	Xe cảnh sát
+Traffic jam	Kẹt xe
+Congestion	Tắc nghẽn
+Detour	Đường vòng
+Diverge	Rẽ nhánh
+Merge	Hợp nhất
+Overtake	Vượt
+Turn	Rẽ
+Curve	Cung đường
+Speed bump	Gờ cao su
+Pothole	Ổ gà
+Bridge	Cầu
+Tunnel	Đường hầm
+Overpass	Cầu vượt
+Underpass	Đường hầm chui
+Railway	Đường sắt
+Platform	Sân ga
+Ticket	Vé
+Schedule	Lịch trình
+Fare	Tiền vé
+Destination	Điểm đến
+Route	Tuyến đường
+Sign	Biển báo
+Arrow	Mũi tên
+Warning	Cảnh báo
+Turn signal	Đèn xi-nhan
+Pedestrian zone	Khu vực dành cho người đi bộ
+No entry	Cấm vào
+One way	Hướng một chiều
+Roundabout sign	Biển hướng đi vòng xuyến
+Speed limit sign	Biển giới hạn tốc độ
+Intersection sign	Biển ngã tư
+Parking lot	Bãi đậu xe
+Parking garage	Nhà gửi xe
+Ticket machine	Máy bán vé
+Turnstile	Cổng xoay
+Train station	Nhà ga
+Bus station	Bến xe buýt
+Runway	Đường băng
+Terminal	Nhà ga hành khách
+Baggage claim	Khu vực nhận hành lý
+Security check	Kiểm tra an ninh
+Boarding pass	Thẻ lên máy bay
+Arrival	Khu vực đến
+Departure	Khu vực đi
+Customs	Hải quan
+Immigration	Di trú
+Passport	Hộ chiếu
+Visa	Thị thực
+Luggage	Hành lý
+Car rental	Cho thuê xe
+Traffic control	Kiểm soát giao thông
+Accident	Tai nạn
+Emergency	Tình huống khẩn cấp
+Tow truck	Xe kéo
+Roadside assistance	Hỗ trợ trên đường
+Traffic ticket	Biên lai vi phạm luật giao thông
+Driver's license	Bằng lái xe
+Seat belt	Dây đeo an toàn
+Airbag	Túi khí
+Traffic rules	Quy tắc giao thông
+Driving test	Bài kiểm tra lái xe
+Traffic school	Trường học lái xe
+Speeding	Chạy quá tốc độ
+DUI (Driving Under the Influence)	Lái xe khi say rượu hoặc dùng chất kích thích
+Road rage	Tức giận khi lái xe
+Public transit	Giao thông công cộng	
